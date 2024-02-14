@@ -1,7 +1,7 @@
 # ecog-decoding
 A NEURO/CSE 528 project applying deep learning methods to human ECoG recording data during passive viewing of visual stimuli <br>
 
-Dataset info
+Dataset info <br>
 https://exhibits.stanford.edu/data/catalog/zk881ps0522 <br>
 Miller, Kai J., et al. "Face percept formation in human ventral temporal cortex." Journal of neurophysiology 118.5 (2017): 2614-2627. <br>
 
