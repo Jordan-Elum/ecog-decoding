@@ -1,5 +1,5 @@
 # ecog-decoding
-A NEURO/CSE 528 project to apply deep learning methods to human ECoG recording data during passive viewing of visual stimuli <br>
+A NEURO/CSE 528 project applying deep learning methods to human ECoG recording data during passive viewing of visual stimuli <br>
 
 Example output <br>
 
